@@ -1,0 +1,2 @@
+# buyorwait-
+THIS PROJECT IS ABOUT THE BUY OR WAIT
